@@ -1,0 +1,73 @@
+[
+    {
+      "descripcion": "Se administró un tratamiento para tratar una infección respiratoria en una mascota.",
+      "fecha": "2023-01-01",
+      "idMascota": 1,
+      "cedulaVeterinario": 9876543210,
+      "idMedicamento": 144
+    },
+    {
+      "descripcion": "El tratamiento se centró en aliviar los síntomas gastrointestinales en la mascota.",
+      "fecha": "2023-11-01",
+      "idMascota": 9,
+      "cedulaVeterinario": 9876543210,
+      "idMedicamento": 53
+    },
+    {
+      "descripcion": "Se proporcionó atención para tratar una herida en la piel de la mascota.",
+      "fecha": "2023-10-15",
+      "idMascota": 7,
+      "cedulaVeterinario": 9876543210,
+      "idMedicamento": 67
+    },
+    {
+      "descripcion": "El tratamiento se enfocó en mejorar la salud general de la mascota.",
+      "fecha": "2022-10-25",
+      "idMascota": 4,
+      "cedulaVeterinario": 2109876543,
+      "idMedicamento": 123
+    },
+    {
+      "descripcion": "Se administró un medicamento para tratar una infección en el oído de la mascota.",
+      "fecha": "2022-09-30",
+      "idMascota": 20,
+      "cedulaVeterinario": 2109876543,
+      "idMedicamento": 136
+    },
+    {
+      "descripcion": "El tratamiento se centró en abordar una afección cardíaca en la mascota.",
+      "fecha": "2022-08-05",
+      "idMascota": 15,
+      "cedulaVeterinario": 2109876543,
+      "idMedicamento": 37
+    },
+    {
+      "descripcion": "Se proporcionó atención para tratar una fractura en una de las patas de la mascota.",
+      "fecha": "2022-07-10",
+      "idMascota": 19,
+      "cedulaVeterinario": 9870123456,
+      "idMedicamento": 86
+    },
+    {
+      "descripcion": "El tratamiento se enfocó en aliviar los síntomas respiratorios en la mascota.",
+      "fecha": "2022-06-15",
+      "idMascota": 8,
+      "cedulaVeterinario": 2109876543,
+      "idMedicamento": 150
+    },
+    {
+      "descripcion": "Se administró un medicamento para tratar una infección en el tracto urinario de la mascota.",
+      "fecha": "2022-05-20",
+      "idMascota": 9,
+      "cedulaVeterinario": 9876543210,
+      "idMedicamento": 165
+    },
+    {
+      "descripcion": "El tratamiento se centró en abordar una afección gastrointestinal en la mascota.",
+      "fecha": "2022-04-25",
+      "idMascota": 21,
+      "cedulaVeterinario": 9870123456,
+      "idMedicamento": 47
+    }
+  ]
+  
